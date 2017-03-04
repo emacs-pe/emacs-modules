@@ -1,0 +1,11 @@
+#+TITLE: Emacs modules
+#+SUBTITLE: List of resources for Emacs modules.
+
+Emacs 25 added support to load shared/dynamic libraries ([[https://www.gnu.org/software/emacs/manual/html_node/elisp/Dynamic-Modules.html][modules]]):
+
+#+BEGIN_QUOTE
+A /dynamic Emacs module/ is a shared library that provides additional
+functionality for use in Emacs Lisp programs, just like a package written in
+Emacs Lisp would.
+#+END_QUOTE
+
