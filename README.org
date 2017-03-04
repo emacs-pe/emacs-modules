@@ -9,3 +9,21 @@ functionality for use in Emacs Lisp programs, just like a package written in
 Emacs Lisp would.
 #+END_QUOTE
 
+* Writing Modules
+
+** Tutorials
+
+   - [[http://diobla.info/blog-archive/modules-tut.html][Introduction to Emacs modules]]
+
+** Other languages
+
+   + Nim :: https://github.com/yuutayamada/nim-emacs-module
+   + OCaml :: https://github.com/janestreet/ecaml
+   + Rust ::
+             - https://github.com/lunaryorn/emacs-module.rs
+             - https://github.com/jjpe/emacs_module_bindings
+
+** Examples
+
+   + Official example :: https://github.com/emacs-mirror/emacs/tree/emacs-25/modules/mod-test
+   + Syohex's module test :: https://github.com/syohex/emacs-module-test
